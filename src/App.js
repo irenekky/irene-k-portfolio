@@ -49,6 +49,7 @@ API integrations and implementation in the front end using axios and fetch</li>
 <li>2013-2018 Muthusi creatives
 
 Helped build client websites with wordpress</li>
+      </ul>
 
 
 
