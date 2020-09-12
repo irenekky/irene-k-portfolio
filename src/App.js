@@ -43,6 +43,7 @@ Using react.JS, JavaScript, HTML, and CSS for developing single page application
 Using JavaScript, Dom manipulation and JavaScript event to generate the data result in UI.
 
 API integrations and implementation in the front end using axios and fetch</li>
+      Using React-Router to turn application into Single Page Application
 
 
 <li>2013-2018 Muthusi creatives
@@ -51,16 +52,12 @@ Helped build client websites with wordpress</li>
 
 
 
-<li>2006-2012 Independent music producer
 
-Planning and executing digital music production projects. I also did singing and songwriting independently.</li>
-</ul>
 
 
 <h3>EDUCATION</h3>
 
-      Music certificate: Real music school
-      HighSchool certificate :Greenfields high school
+      HighSchool diploma :Greenfields high school
      
 
 </React.Fragment>
