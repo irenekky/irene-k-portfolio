@@ -59,6 +59,9 @@ Helped build client websites with wordpress</li>
 <h3>EDUCATION</h3>
 
       HighSchool diploma :Greenfields high school
+      <h3>Contacts</h3>
+      <p>Email: irenedunge@yahoo.com</p>
+      <p>Mobile: +254 010 226 1491</p>
      
 
 </React.Fragment>
