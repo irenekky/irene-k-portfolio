@@ -12,7 +12,7 @@ class About extends React.Component {
         <h3>Irene Kilonzo</h3>
               <h5>Front-end developer</h5>
 
-Creative, visionary and responsible frontend developer with five and a half years’ experience in the IT domain. Self-taught and extremely knowledgeable of various web development technologies. Fast learner and flexible.
+Creative, visionary and responsible frontend developer with 5+ years’ experience in the IT domain. Self-taught and extremely knowledgeable in various web development technologies. Fast learner and flexible.
 
 <h3>TECHNICAL SKILLS</h3>
 <ul>
