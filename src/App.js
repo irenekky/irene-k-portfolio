@@ -35,20 +35,23 @@ Creative, visionary and responsible frontend developer with 5+ years’ experien
 
 <h3>EXPERIENCE</h3>
 <ul>
-  <li>2018-present Front-end development;
+  <h4>2018-present Front-end development;</h4>
 
 
-Using react.JS, JavaScript, HTML, and CSS for developing single page application and achieving two-way data binding between HTML and JavaScript objects.
+<li> Using react.JS, JavaScript, HTML, and CSS for developing single page application and achieving two-way data binding between HTML and JavaScript objects.</li>
 
-Using JavaScript, Dom manipulation and JavaScript event to generate the data result in UI.
+<li>Using JavaScript, Dom manipulation and JavaScript event to generate the data result in UI.</li>
 
-API integrations and implementation in the front end using axios and fetch</li>
-      Using React-Router to turn application into Single Page Application
+<li>API integrations and implementation in the front end using axios and fetch</li>
+     <li> Using React-Router to turn application into Single Page Applications.</li>
 
 
-<li>2013-2018 Muthusi creatives
+<h4>2013-2018 Muthusi creatives</h4>
 
-Helped build client websites with wordpress</li>
+<li> Helped build client websites with wordpress</li>
+<li>Modified existing code as required. </li>
+<li> Assisted in website traffic and performance monitoring. </li>
+
       </ul>
 
 
@@ -58,10 +61,13 @@ Helped build client websites with wordpress</li>
 
 <h3>EDUCATION</h3>
 
-      HighSchool diploma :Greenfields high school
-      <h3>Contacts</h3>
+      Html, Css, sass, Jsx, javascript, Reactjs, React native : Self Taught.
+<h3>LANGUAGES.</h3>
+<p>Swahili.</p>
+<p>English.</p>
+      <h3>CONTACTS</h3>
       <p>Email: irenedunge@yahoo.com</p>
-      <p>Mobile: +254 010 226 1491</p>
+      <p>Mobile: +254 10 226 1491</p>
      
 
 </React.Fragment>
