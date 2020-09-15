@@ -6,8 +6,8 @@ class About extends React.Component {
     return (
       <div>
         <React.Fragment>
-       <h1 className="">
-         My C.v/Resume</h1>
+       <h1 className="w3-center">
+         About me</h1>
 
         <h3>Irene Kilonzo</h3>
               <h5>Front-end developer</h5>
@@ -15,6 +15,7 @@ class About extends React.Component {
 Creative, visionary and responsible frontend developer with 5+ years’ experience in the IT domain. Self-taught and extremely knowledgeable in various web development technologies. Fast learner and flexible.
 
 <h3>TECHNICAL SKILLS</h3>
+<img className="w3-img w3-center" src="coworking_.svg" alt="img"></img>
 <ul>
   <li>
   Create-react-app, R.T.L, jest, custom react set-ups, react-redux, github, API intergration</li>
