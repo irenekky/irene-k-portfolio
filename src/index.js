@@ -10,9 +10,9 @@ import {
 } from "react-router-dom";
 
 
-const About = lazy(() => import('./App'));
-const Home = lazy(() => import('./users'));
-const About = lazy(() => import('./notfound'));
+const App = lazy(() => import('./App'));
+const Users = lazy(() => import('./Users'));
+const  = lazy(() => import('./notfound'));
 
 
 
@@ -26,7 +26,7 @@ const routing = (
     
   
   
-    <div className="App-header">
+    <div className="w3-container">
       <React.Fragment>
     <img className="w3-logo w3-left" src="irenelogo.png" alt="img"></img>
       
