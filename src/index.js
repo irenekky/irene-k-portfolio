@@ -25,7 +25,7 @@ const routing = (
   
     <div className="w3-container">
       <React.Fragment>
-    <img className="w3-logo w3-left" src="irenelogo.png" alt="img"></img>
+    <img className="w3-logo w3-left" src="irenelogo.png" alt=""></img>
       
       
       <ul className="w3-bar w3-grey">
