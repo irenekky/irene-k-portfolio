@@ -16,7 +16,7 @@ const App: React.FC = () => (
 Creative, visionary and responsible frontend developer with 5+ years’ experience in the IT domain. Self-taught and extremely knowledgeable in various web development technologies. Fast learner and flexible.
 
 <h3>TECHNICAL SKILLS</h3>
-<img className="w3-img w3-center" src="coworking_.svg" alt="img"></img>
+<img className="logo w3-center" src="coworking_.svg" alt="img"></img>
 <ul>
   <li>
   Create-react-app, R.T.L, jest, custom react set-ups, react-redux, github, API intergration</li>
