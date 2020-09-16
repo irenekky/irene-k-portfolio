@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import './W3.css';
-class About extends React.Component {
+
+const App: React.FC = () => (
   render() {
     return (
       <div>
@@ -80,4 +81,4 @@ Creative, visionary and responsible frontend developer with 5+ years’ experien
   }
 }
 
-export default About;
+export default App;
