@@ -35,6 +35,7 @@ Creative, visionary and responsible frontend developer with 5+ years’ experien
 </ul>
 
 <h3>EXPERIENCE</h3>
+<img className ="w3-image w3-center" src="coding_.svg" alt ="img"></img>
 <ul>
   <h4>2018-present Front-end development;</h4>
 
@@ -61,6 +62,7 @@ Creative, visionary and responsible frontend developer with 5+ years’ experien
 
 
 <h3>EDUCATION</h3>
+<img className="w3-image w3-center" src="focused_working.svg" alt ="img"></img>
 
       Html, Css, sass, Jsx, javascript, Reactjs, React native : Self Taught.
 <h3>LANGUAGES.</h3>
