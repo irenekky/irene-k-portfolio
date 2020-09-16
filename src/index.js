@@ -23,7 +23,7 @@ const routing = (
   <Router>
     <Suspense fallback={<div>Loading...</div>}>
     {/*...*/}
-    </Suspense>
+    
   
   
     <div className="">
