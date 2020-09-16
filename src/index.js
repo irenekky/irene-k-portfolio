@@ -8,9 +8,12 @@ import {
   BrowserRouter as Router,
   Switch
 } from "react-router-dom";
-import App from "./App";
-import Users from "./users";
-import Notfound from "./notfound";
+
+
+const About = lazy(() => import('./App'));
+const Home = lazy(() => import('./users'));
+const About = lazy(() => import('./notfound'));
+
 
 
 const routing = (
@@ -18,6 +21,9 @@ const routing = (
   
   
   <Router>
+    <Suspense fallback={<div>Loading...</div>}>
+    {/*...*/}
+    </Suspense>
   
   
     <div className="">
@@ -47,10 +53,11 @@ const routing = (
         
         <Route component={Notfound} />
       </Switch>
+  
       </React.Fragment>
       </div>
       
-       
+       </Suspense>
       </Router>
 
       
