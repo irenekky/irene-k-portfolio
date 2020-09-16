@@ -5,7 +5,7 @@ import './W3.css';
 const App: React.FC = () => (
   render() {
     return (
-      <div>
+      <div className="w3-container w3-center" style={{width:"50%";}}>
         <React.Fragment>
        <h1 className="w3-center">
          About me</h1>
