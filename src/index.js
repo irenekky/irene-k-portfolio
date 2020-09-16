@@ -9,11 +9,9 @@ import {
   Switch
 } from "react-router-dom";
 
-
-const App = lazy(() => import('./App'));
-const Users = lazy(() => import('./Users'));
-const  = lazy(() => import('./notfound'));
-
+import App from "./App";
+import Users from "./Users";
+import Notfound from "./notfound";
 
 
 const routing = (
@@ -21,8 +19,7 @@ const routing = (
   
   
   <Router>
-    <Suspense fallback={<div>Loading...</div>}>
-    {/*...*/}
+    
     
   
   
@@ -56,7 +53,6 @@ const routing = (
       </React.Fragment>
       </div>
       
-       </Suspense>
       </Router>
 
       
