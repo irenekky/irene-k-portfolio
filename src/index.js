@@ -26,7 +26,7 @@ const routing = (
     
   
   
-    <div className="">
+    <div className="App-header">
       <React.Fragment>
     
       <h1 className="w3-bar-item w3-black w3-center">Irene Kilonzo</h1>
