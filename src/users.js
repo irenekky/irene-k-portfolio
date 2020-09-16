@@ -3,7 +3,7 @@ import { Route, Link} from "react-router-dom";
 
 const User = ({ match }) => <p>{match.params.id}</p>;
 
-class Users extends React.Component {
+const Users: React.FC = () => (
     render() {
     return (
         <div>
