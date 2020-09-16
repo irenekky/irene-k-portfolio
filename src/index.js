@@ -28,9 +28,8 @@ const routing = (
   
     <div className="App-header">
       <React.Fragment>
-    
-      <h1 className="w3-bar-item w3-black w3-center">Irene Kilonzo</h1>
-      <p className="w3-center w3-text-pink">Front-end developer</p>
+    <img className="w3-logo w3-left" src="irenelogo.png" alt="img"></img>
+      
       
       <ul className="w3-bar w3-grey">
         <li className="w3-bar-item w3-left w3-button w3-pink">
