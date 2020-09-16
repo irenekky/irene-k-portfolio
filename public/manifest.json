@@ -16,6 +16,11 @@
       "src": "focused_working.svg",
       "type": "image/svg",
       "sizes": "192x192"
+    },
+      {
+      "src": "irenelogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "start_url": ".",
