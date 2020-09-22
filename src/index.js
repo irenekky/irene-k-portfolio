@@ -34,18 +34,14 @@ const routing = (
             <h6 className="w3-text-black">About me</h6>
           </NavLink>
         </li>
-        <li className="w3-bar-item w3-left w3-button w3-black">
-          <NavLink activeClassName="active" to="/users">
-            <h6 className="w3-text-white">Portfolio</h6>
-          </NavLink>
-        </li>
+        
         
       </ul>
       
       <hr />
       <Switch>
         <Route exact path="/" component={App} />
-        <Route path="/users" component={Users} />
+       
         
         <Route component={Notfound} />
       </Switch>
