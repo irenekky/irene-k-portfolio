@@ -70,7 +70,7 @@ Creative, visionary and responsible frontend developer with 5+ years’ experien
 <p>Swahili.</p>
 <p>English.</p>
       <h3>CONTACTS</h3>
-      <p>Email: irenedunge@yahoo.com</p>
+      <p>Email: kilonzohosting@gmail.com</p>
       <p>Mobile: +254 10 226 1491</p>
      
 
